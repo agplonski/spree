@@ -1,6 +1,7 @@
 ---
+admin/bg/favicon.ico: admin/bg/favicon-2493807040450c35f11fb88e2a546a52.ico
 admin/bg/spree_50.png: admin/bg/spree_50-6f69386fa303df1b5f7fe306f212a991.png
-rails.png: rails-be8732dac73d845ac5b142c8fb5f9fb0.png
+favicon.ico: favicon-2493807040450c35f11fb88e2a546a52.ico
 admin/all.js: admin/all-fc5a0942f5b3f9319606b7c1f03f0697.js
 application.js: application-3fcc5cfc11cd39e5b61b8535fa47dd46.js
 store/all.js: store/all-4ac4dc1f53c8daa309f18eedebcf407f.js
@@ -109,7 +110,6 @@ credit_cards/icons/wirecard.png: credit_cards/icons/wirecard-df141815f5d396a4a59
 credit_cards/icons/worldpay.png: credit_cards/icons/worldpay-423bad479c9824da040e4beb44bee858.png
 credit_cards/master_cid.jpg: credit_cards/master_cid-ccf624cf4dabf8721595bec4d528db95.jpg
 credit_cards/visa_cid.gif: credit_cards/visa_cid-642b561f0012f74300d17ac0df60f750.gif
-favicon.ico: favicon-e117df2d4fe828c35ad3fcad05af1861.ico
 icons/add-to-cart.png: icons/add-to-cart-6dbdcd1daa1f9d3538a903c53aaf5202.png
 icons/checkout.png: icons/checkout-6b458b6acdccc50b5c77ef03798f0c69.png
 icons/delete.png: icons/delete-c2651300ae2e326a9727177155b48bf7.png
